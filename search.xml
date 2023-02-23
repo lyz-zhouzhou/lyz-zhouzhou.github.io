@@ -4,49 +4,11 @@
   
     
     <entry>
-      <title>前端</title>
-      <link href="/2023/02/23/%E5%89%8D%E7%AB%AF/index/"/>
-      <url>/2023/02/23/%E5%89%8D%E7%AB%AF/index/</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-      
-      <categories>
-          
-          <category> 前端 </category>
-          
-      </categories>
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>Markdown</title>
-      <link href="/2023/02/17/Markdown/index/"/>
-      <url>/2023/02/17/Markdown/index/</url>
+      <link href="/2023/02/17/%E6%9D%82%E9%A1%B9/Markdown/index/"/>
+      <url>/2023/02/17/%E6%9D%82%E9%A1%B9/Markdown/index/</url>
       
         <content type="html"><![CDATA[<h1 id="Markdown学习"><a href="#Markdown学习" class="headerlink" title="Markdown学习"></a>Markdown学习</h1><h2 id="Markdown概念"><a href="#Markdown概念" class="headerlink" title="Markdown概念"></a>Markdown概念</h2><blockquote><p>Markdown 是一种轻量级标记语言，创始人为约翰·格鲁伯。它允许人们使用易读易写的纯文本格式编写文档，然后转换成有效的 XHTML（或者 HTML）文档。这种语言吸收了很多在电子邮件中已有的纯文本标记的特性。</p></blockquote><h2 id="Markdown优点"><a href="#Markdown优点" class="headerlink" title="Markdown优点"></a>Markdown优点</h2><blockquote><p>由于 Markdown 的轻量化、易读易写特性，并且对于图片，图表、数学式都有支援，目前许多网站都广泛使用 Markdown 来撰写说明文件或是用于论坛上发表讯息。如何方的个人小站、GitHub、Reddit、Stack Exchange、OpenStreetMap 、SourceForge、简书等，甚至还能被用来撰写电子书。</p></blockquote><h2 id="Markdown基本语法"><a href="#Markdown基本语法" class="headerlink" title="Markdown基本语法"></a>Markdown基本语法</h2><h3 id="标题语法"><a href="#标题语法" class="headerlink" title="标题语法"></a>标题语法</h3><figure class="highlight markdown"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line"><span class="section"># 1级标题</span></span><br><span class="line"><span class="section">## 2级标题</span></span><br><span class="line"><span class="section">### 3级标题</span></span><br><span class="line"><span class="section">#### 4级标题</span></span><br><span class="line"><span class="section">##### 5级标题</span></span><br><span class="line"><span class="section">###### 6级标题</span></span><br><span class="line">ps:注意符号后需要加空格</span><br></pre></td></tr></table></figure><h3 id="引用语法"><a href="#引用语法" class="headerlink" title="引用语法"></a>引用语法</h3><figure class="highlight markdown"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="quote">&gt; 引用内容</span></span><br><span class="line">&gt;&gt; 引用嵌套(嵌套在上层引用内容中)</span><br></pre></td></tr></table></figure><blockquote><p>效果</p><blockquote><p>引用内容</p><blockquote><p>引用嵌套(嵌套在上层引用内容中)</p></blockquote></blockquote></blockquote><h3 id="代码块语法"><a href="#代码块语法" class="headerlink" title="代码块语法"></a>代码块语法</h3><figure class="highlight markdown"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="code">```代码语言  </span></span><br><span class="line"><span class="code">代码内容``` </span></span><br></pre></td></tr></table></figure><blockquote><p>效果</p><blockquote><figure class="highlight markdown"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">代码内容</span><br></pre></td></tr></table></figure></blockquote></blockquote><h3 id="段落语法"><a href="#段落语法" class="headerlink" title="段落语法"></a>段落语法</h3><blockquote><p>在 Markdown 中，连续的一行或多行就是一个段落，用空行来进行切断<br><figure class="highlight markdown"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">我是第一个段落</span><br><span class="line">我是第二个段落</span><br><span class="line">我是第三个段落</span><br></pre></td></tr></table></figure><br>效果</p><blockquote><p>我是第一个段落</p><p>我是第二个段落</p><p>我是第三个段落</p></blockquote></blockquote><h3 id="文本语法"><a href="#文本语法" class="headerlink" title="文本语法"></a>文本语法</h3><figure class="highlight markdown"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="strong">**粗体**</span></span><br><span class="line"><span class="emphasis">*斜体*</span></span><br><span class="line"><span class="strong">**<span class="emphasis">*加粗斜体*</span>**</span></span><br></pre></td></tr></table></figure><blockquote><p>效果</p><blockquote><p><strong>粗体</strong></p><p><em>斜体</em></p><p><strong><em>加粗斜体</em></strong></p></blockquote></blockquote>]]></content>
-      
-      
-      <categories>
-          
-          <category> 杂项 </category>
-          
-      </categories>
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Git</title>
-      <link href="/2023/02/17/%E6%9D%82%E8%B0%88/index/"/>
-      <url>/2023/02/17/%E6%9D%82%E8%B0%88/index/</url>
-      
-        <content type="html"><![CDATA[<h1 id="Git学习"><a href="#Git学习" class="headerlink" title="Git学习"></a>Git学习</h1>]]></content>
       
       
       <categories>
@@ -80,25 +42,6 @@
     
     
     <entry>
-      <title>Spring</title>
-      <link href="/2023/02/16/Spring/index/"/>
-      <url>/2023/02/16/Spring/index/</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-      
-      <categories>
-          
-          <category> 框架 </category>
-          
-      </categories>
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>随想</title>
       <link href="/2023/02/16/%E9%9A%8F%E6%83%B3/index/"/>
       <url>/2023/02/16/%E9%9A%8F%E6%83%B3/index/</url>
@@ -118,9 +61,9 @@
     
     
     <entry>
-      <title>Java基础</title>
-      <link href="/2023/02/16/Java/index/"/>
-      <url>/2023/02/16/Java/index/</url>
+      <title>JavaSE</title>
+      <link href="/2023/02/16/Java/JavaSE/index/"/>
+      <url>/2023/02/16/Java/JavaSE/index/</url>
       
         <content type="html"><![CDATA[<h1 id="JavaSE"><a href="#JavaSE" class="headerlink" title="JavaSE"></a>JavaSE</h1>]]></content>
       
